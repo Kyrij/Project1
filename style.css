@@ -1,0 +1,58 @@
+.background {
+	background: url(assets/img/kyri.gif) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+}
+
+h2 {
+	color: white;
+	font-size: 60px;
+	text-align: center
+}
+
+h3 {
+	color: white;
+	font-size: 60px;
+	text-align: center;
+}
+
+p {
+	color: white;
+	font-size: 70px;
+	font position: absolute;
+}
+
+img {
+	width: 100%;
+	height: 50%;
+}
+
+label {
+	color: white;
+	font-variant-position: normal;
+	font-size: 65px
+}
+
+input {
+	border-width: medium;
+	border-spacing: inherit;
+	border box-sizing: border-box;
+}
+
+textarea {
+	width: 100px;
+	height: 100px;
+}
+
+img {
+	border-bottom-style: groove;
+	height: auto;
+	display: flex;
+
+}
